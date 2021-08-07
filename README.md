@@ -3,7 +3,7 @@
 ### Installation
 
 ```
-git clone https://github.com/enesskilic/itcss-folder-structure.git
+git clone https://github.com/enesskilic/itcss-boilerplate.git
 ```
 
 ### Table of contents
