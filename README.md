@@ -2,7 +2,9 @@
 
 ### Installation
 
-``` git clone https://github.com/enesskilic/itcss-folder-structure.git```
+```
+git clone https://github.com/enesskilic/itcss-folder-structure.git
+```
 
 ### Table of contents
 1- Settings (color, type etc. variables)
