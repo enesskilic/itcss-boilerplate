@@ -1,4 +1,4 @@
-## ITCSS Folder Structure
+## ITCSS Boilerplate
 
 ### Installation
 
