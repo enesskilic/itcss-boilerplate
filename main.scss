@@ -1,0 +1,20 @@
+/* 1- Settings (color, type etc. variables) */
+@import "1-settings/index";
+
+/* 2- Tools (mixins, functions etc.) */
+@import "2-tools/index";
+
+/* 3- Generic (reset, normalize etc.) */
+@import "3-generic/index";
+
+/* 4- Elements (html, body etc. tag styles) */
+@import "4-elements/index";
+
+/* 5- Components (component styles) */
+@import "5-components/index";
+
+/* 6- Pages (page styles) */
+@import "6-pages/index";
+
+/* 7- Utilities (utility classes) */
+@import "7-utilities/index";
